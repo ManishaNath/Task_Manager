@@ -1,0 +1,34 @@
+{
+    "TaskManagerArray": [
+        {
+            "id": 3,
+            "title": "Prepare for Client Meeting",
+            "description": "Gather materials and prepare talking points for the upcoming client meeting.",
+            "flag": "true"
+        },
+        {
+            "id": 5,
+            "title": "Create User Documentation",
+            "description": "Document the usage and features of the application for end-users.",
+            "flag": "false"
+        },
+        {
+            "id": 2,
+            "title": "Production",
+            "description": "Make the project available for user.",
+            "flag": "false"
+        },
+        {
+            "id": 7,
+            "title": "start of staging",
+            "description": "Create a detailed proposal for project in staging environment",
+            "flag": "false"
+        },
+        {
+            "id": 6,
+            "name": "Test New Features",
+            "description": "Conduct thorough testing of the newly implemented features.",
+            "flag": "true"
+        }
+    ]
+}
