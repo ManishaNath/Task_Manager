@@ -19,7 +19,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 
 2. Navigate to the project directory:
-   cd Task_Manager_app
+   cd Task_Manager
 
 3. Install dependencies:
    npm install
