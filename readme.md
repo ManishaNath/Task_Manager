@@ -46,7 +46,7 @@ Endpoint: POST /tasks
 Description: Create a new task.
 Request Body:
 title: Task title (string, required).
-description: Task description (string, required).
+Description: Task description (string, required).
 flag: Completion status (boolean, required).
 
 Update a Task
@@ -54,7 +54,7 @@ Endpoint: PUT /tasks/:id
 Description: Update an existing task by its ID.
 Request Body:
 title: Updated task title (string, required).
-description: Updated task description (string, required).
+Description: Updated task description (string, required).
 flag: Updated completion status (boolean, required).
 
 Delete a Task
